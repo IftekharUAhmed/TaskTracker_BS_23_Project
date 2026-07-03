@@ -1,0 +1,12 @@
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Domain\bin\Debug\net10.0\TaskTracker.Domain.deps.json
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Domain\bin\Debug\net10.0\TaskTracker.Domain.dll
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Domain\bin\Debug\net10.0\TaskTracker.Domain.pdb
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Domain\obj\Debug\net10.0\TaskTracker.Domain.csproj.AssemblyReference.cache
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Domain\obj\Debug\net10.0\TaskTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Domain\obj\Debug\net10.0\TaskTracker.Domain.AssemblyInfoInputs.cache
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Domain\obj\Debug\net10.0\TaskTracker.Domain.AssemblyInfo.cs
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Domain\obj\Debug\net10.0\TaskTracker.Domain.csproj.CoreCompileInputs.cache
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Domain\obj\Debug\net10.0\TaskTracker.Domain.dll
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Domain\obj\Debug\net10.0\refint\TaskTracker.Domain.dll
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Domain\obj\Debug\net10.0\TaskTracker.Domain.pdb
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Domain\obj\Debug\net10.0\ref\TaskTracker.Domain.dll

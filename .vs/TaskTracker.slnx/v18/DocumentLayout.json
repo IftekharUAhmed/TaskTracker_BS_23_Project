@@ -1,0 +1,1221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BS_23_dotnet_project2\\TaskTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C64506F-5681-B141-50D4-980CFF71478E}|TaskTracker.Tests\\TaskTracker.Tests.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.tests\\repositories\\taskrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C64506F-5681-B141-50D4-980CFF71478E}|TaskTracker.Tests\\TaskTracker.Tests.csproj|solutionrelative:tasktracker.tests\\repositories\\taskrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C64506F-5681-B141-50D4-980CFF71478E}|TaskTracker.Tests\\TaskTracker.Tests.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.tests\\managers\\usermanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C64506F-5681-B141-50D4-980CFF71478E}|TaskTracker.Tests\\TaskTracker.Tests.csproj|solutionrelative:tasktracker.tests\\managers\\usermanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C64506F-5681-B141-50D4-980CFF71478E}|TaskTracker.Tests\\TaskTracker.Tests.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.tests\\managers\\taskmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C64506F-5681-B141-50D4-980CFF71478E}|TaskTracker.Tests\\TaskTracker.Tests.csproj|solutionrelative:tasktracker.tests\\managers\\taskmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C64506F-5681-B141-50D4-980CFF71478E}|TaskTracker.Tests\\TaskTracker.Tests.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.tests\\managers\\authmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C64506F-5681-B141-50D4-980CFF71478E}|TaskTracker.Tests\\TaskTracker.Tests.csproj|solutionrelative:tasktracker.tests\\managers\\authmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8F72AA-9776-3CBD-9127-CC281B53434B}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.infrastructure\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8F72AA-9776-3CBD-9127-CC281B53434B}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|solutionrelative:tasktracker.infrastructure\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8F72AA-9776-3CBD-9127-CC281B53434B}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.infrastructure\\security\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8F72AA-9776-3CBD-9127-CC281B53434B}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|solutionrelative:tasktracker.infrastructure\\security\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8F72AA-9776-3CBD-9127-CC281B53434B}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8F72AA-9776-3CBD-9127-CC281B53434B}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|solutionrelative:tasktracker.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8F72AA-9776-3CBD-9127-CC281B53434B}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.infrastructure\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8F72AA-9776-3CBD-9127-CC281B53434B}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|solutionrelative:tasktracker.infrastructure\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8F72AA-9776-3CBD-9127-CC281B53434B}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8F72AA-9776-3CBD-9127-CC281B53434B}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|solutionrelative:tasktracker.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8F72AA-9776-3CBD-9127-CC281B53434B}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.infrastructure\\repositories\\refreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8F72AA-9776-3CBD-9127-CC281B53434B}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|solutionrelative:tasktracker.infrastructure\\repositories\\refreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8F72AA-9776-3CBD-9127-CC281B53434B}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.infrastructure\\migrations\\20260625122218_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8F72AA-9776-3CBD-9127-CC281B53434B}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|solutionrelative:tasktracker.infrastructure\\migrations\\20260625122218_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8F72AA-9776-3CBD-9127-CC281B53434B}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.infrastructure\\data\\tasktrackerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8F72AA-9776-3CBD-9127-CC281B53434B}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|solutionrelative:tasktracker.infrastructure\\data\\tasktrackerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8F72AA-9776-3CBD-9127-CC281B53434B}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8F72AA-9776-3CBD-9127-CC281B53434B}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|solutionrelative:tasktracker.infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\validators\\tasks\\updatetaskrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\validators\\tasks\\updatetaskrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\validators\\tasks\\createtaskrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\validators\\tasks\\createtaskrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\validators\\comments\\createcommentrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\validators\\comments\\createcommentrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\validators\\auth\\registerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\validators\\auth\\registerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\validators\\auth\\loginrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\validators\\auth\\loginrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\specifications\\tasksbyfilterspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\specifications\\tasksbyfilterspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\managers\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\managers\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\managers\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\managers\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\interfaces\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\interfaces\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\interfaces\\itaskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\interfaces\\itaskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\interfaces\\irefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\interfaces\\irefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\interfaces\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\interfaces\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\interfaces\\iauthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\interfaces\\iauthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\exceptions\\forbiddenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\exceptions\\forbiddenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\enums\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\enums\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\enums\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\enums\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\enums\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\enums\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\dtos\\users\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\dtos\\users\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\dtos\\users\\updateuserrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\dtos\\users\\updateuserrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\dtos\\tasks\\updatetaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\dtos\\tasks\\updatetaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\dtos\\tasks\\taskwithcommentsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\dtos\\tasks\\taskwithcommentsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\dtos\\tasks\\taskitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\dtos\\tasks\\taskitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\dtos\\tasks\\taskfilterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\dtos\\tasks\\taskfilterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\dtos\\tasks\\createtaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\dtos\\tasks\\createtaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\dtos\\common\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\dtos\\common\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\dtos\\common\\changerolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\dtos\\common\\changerolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\dtos\\comments\\createcommentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\dtos\\comments\\createcommentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\dtos\\comments\\commentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\dtos\\comments\\commentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\dtos\\auth\\tokenrefreshrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\dtos\\auth\\tokenrefreshrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\dtos\\auth\\revoketokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\dtos\\auth\\revoketokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\dtos\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\dtos\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\dtos\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\dtos\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\dtos\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\dtos\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76449678-1EB2-E359-E816-B236BEE0BC3E}|TaskTracker.API\\TaskTracker.API.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76449678-1EB2-E359-E816-B236BEE0BC3E}|TaskTracker.API\\TaskTracker.API.csproj|solutionrelative:tasktracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76449678-1EB2-E359-E816-B236BEE0BC3E}|TaskTracker.API\\TaskTracker.API.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76449678-1EB2-E359-E816-B236BEE0BC3E}|TaskTracker.API\\TaskTracker.API.csproj|solutionrelative:tasktracker.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76449678-1EB2-E359-E816-B236BEE0BC3E}|TaskTracker.API\\TaskTracker.API.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76449678-1EB2-E359-E816-B236BEE0BC3E}|TaskTracker.API\\TaskTracker.API.csproj|solutionrelative:tasktracker.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76449678-1EB2-E359-E816-B236BEE0BC3E}|TaskTracker.API\\TaskTracker.API.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76449678-1EB2-E359-E816-B236BEE0BC3E}|TaskTracker.API\\TaskTracker.API.csproj|solutionrelative:tasktracker.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76449678-1EB2-E359-E816-B236BEE0BC3E}|TaskTracker.API\\TaskTracker.API.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76449678-1EB2-E359-E816-B236BEE0BC3E}|TaskTracker.API\\TaskTracker.API.csproj|solutionrelative:tasktracker.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76449678-1EB2-E359-E816-B236BEE0BC3E}|TaskTracker.API\\TaskTracker.API.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76449678-1EB2-E359-E816-B236BEE0BC3E}|TaskTracker.API\\TaskTracker.API.csproj|solutionrelative:tasktracker.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76449678-1EB2-E359-E816-B236BEE0BC3E}|TaskTracker.API\\TaskTracker.API.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76449678-1EB2-E359-E816-B236BEE0BC3E}|TaskTracker.API\\TaskTracker.API.csproj|solutionrelative:tasktracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|C:\\BS_23_dotnet_project2\\TaskTracker\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76449678-1EB2-E359-E816-B236BEE0BC3E}|TaskTracker.API\\TaskTracker.API.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.api\\tasktracker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{76449678-1EB2-E359-E816-B236BEE0BC3E}|TaskTracker.API\\TaskTracker.API.csproj|solutionrelative:tasktracker.api\\tasktracker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C64506F-5681-B141-50D4-980CFF71478E}|TaskTracker.Tests\\TaskTracker.Tests.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.tests\\tasktracker.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C64506F-5681-B141-50D4-980CFF71478E}|TaskTracker.Tests\\TaskTracker.Tests.csproj|solutionrelative:tasktracker.tests\\tasktracker.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\tasktracker.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\tasktracker.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.domain\\validators\\users\\updateuserrolerequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E3F3C9-A62B-5DEC-1760-34A36593D31B}|TaskTracker.Domain\\TaskTracker.Domain.csproj|solutionrelative:tasktracker.domain\\validators\\users\\updateuserrolerequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8F72AA-9776-3CBD-9127-CC281B53434B}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|c:\\bs_23_dotnet_project2\\tasktracker\\tasktracker.infrastructure\\tasktracker.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B8F72AA-9776-3CBD-9127-CC281B53434B}|TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj|solutionrelative:tasktracker.infrastructure\\tasktracker.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|C:\\BS_23_dotnet_project2\\TaskTracker\\DECISIONS.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:DECISIONS.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|C:\\BS_23_dotnet_project2\\TaskTracker\\TODO.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:TODO.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|C:\\BS_23_dotnet_project2\\TaskTracker\\LEARNING_GUIDE.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:LEARNING_GUIDE.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|C:\\BS_23_dotnet_project2\\TaskTracker\\AI_CONTEXT.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:AI_CONTEXT.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "TaskTracker.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T08:37:09.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Infrastructure\\Security\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Infrastructure\\Security\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Infrastructure\\Security\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "TaskTracker.Infrastructure\\Security\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T09:08:15.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Infrastructure\\Security\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Infrastructure\\Security\\PasswordHasher.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Infrastructure\\Security\\PasswordHasher.cs",
+              "RelativeToolTip": "TaskTracker.Infrastructure\\Security\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T09:07:20.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthManagerTests.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Tests\\Managers\\AuthManagerTests.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Tests\\Managers\\AuthManagerTests.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Tests\\Managers\\AuthManagerTests.cs",
+              "RelativeToolTip": "TaskTracker.Tests\\Managers\\AuthManagerTests.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T08:48:16.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskManagerTests.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Tests\\Managers\\TaskManagerTests.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Tests\\Managers\\TaskManagerTests.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Tests\\Managers\\TaskManagerTests.cs",
+              "RelativeToolTip": "TaskTracker.Tests\\Managers\\TaskManagerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T08:47:06.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserManagerTests.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Tests\\Managers\\UserManagerTests.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Tests\\Managers\\UserManagerTests.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Tests\\Managers\\UserManagerTests.cs",
+              "RelativeToolTip": "TaskTracker.Tests\\Managers\\UserManagerTests.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwC4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T08:49:40.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskRepositoryTests.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Tests\\Repositories\\TaskRepositoryTests.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Tests\\Repositories\\TaskRepositoryTests.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Tests\\Repositories\\TaskRepositoryTests.cs",
+              "RelativeToolTip": "TaskTracker.Tests\\Repositories\\TaskRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T08:51:21.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Infrastructure\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Infrastructure\\Repositories\\TaskRepository.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Infrastructure\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "TaskTracker.Infrastructure\\Repositories\\TaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T08:36:00.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "TaskTracker.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T06:30:51.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RefreshTokenRepository.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Infrastructure\\Repositories\\RefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Infrastructure\\Repositories\\RefreshTokenRepository.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Infrastructure\\Repositories\\RefreshTokenRepository.cs",
+              "RelativeToolTip": "TaskTracker.Infrastructure\\Repositories\\RefreshTokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T08:38:00.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260625122218_InitialCreate.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Infrastructure\\Migrations\\20260625122218_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Infrastructure\\Migrations\\20260625122218_InitialCreate.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Infrastructure\\Migrations\\20260625122218_InitialCreate.cs",
+              "RelativeToolTip": "TaskTracker.Infrastructure\\Migrations\\20260625122218_InitialCreate.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAQwAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T12:22:18.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskTrackerDbContext.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Infrastructure\\Data\\TaskTrackerDbContext.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Infrastructure\\Data\\TaskTrackerDbContext.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Infrastructure\\Data\\TaskTrackerDbContext.cs",
+              "RelativeToolTip": "TaskTracker.Infrastructure\\Data\\TaskTrackerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T06:15:42.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Infrastructure\\Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Infrastructure\\Data\\UnitOfWork.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Infrastructure\\Data\\UnitOfWork.cs",
+              "RelativeToolTip": "TaskTracker.Infrastructure\\Data\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T08:59:23.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\MappingProfile.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\MappingProfile.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\MappingProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T09:37:08.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateTaskRequestValidator.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Validators\\Tasks\\UpdateTaskRequestValidator.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Validators\\Tasks\\UpdateTaskRequestValidator.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Validators\\Tasks\\UpdateTaskRequestValidator.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Validators\\Tasks\\UpdateTaskRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T07:11:44.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateTaskRequestValidator.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Validators\\Tasks\\CreateTaskRequestValidator.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Validators\\Tasks\\CreateTaskRequestValidator.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Validators\\Tasks\\CreateTaskRequestValidator.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Validators\\Tasks\\CreateTaskRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T07:09:39.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateCommentRequestValidator.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Validators\\Comments\\CreateCommentRequestValidator.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Validators\\Comments\\CreateCommentRequestValidator.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Validators\\Comments\\CreateCommentRequestValidator.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Validators\\Comments\\CreateCommentRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T07:14:42.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterRequestValidator.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Validators\\Auth\\RegisterRequestValidator.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Validators\\Auth\\RegisterRequestValidator.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Validators\\Auth\\RegisterRequestValidator.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Validators\\Auth\\RegisterRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T07:03:53.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginRequestValidator.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Validators\\Auth\\LoginRequestValidator.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Validators\\Auth\\LoginRequestValidator.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Validators\\Auth\\LoginRequestValidator.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Validators\\Auth\\LoginRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T07:05:46.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TasksByFilterSpec.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Specifications\\TasksByFilterSpec.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Specifications\\TasksByFilterSpec.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Specifications\\TasksByFilterSpec.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Specifications\\TasksByFilterSpec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T20:46:24.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Managers\\UserManager.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Managers\\UserManager.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Managers\\UserManager.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Managers\\UserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T11:33:07.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Managers\\TaskManager.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Managers\\TaskManager.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Managers\\TaskManager.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Managers\\TaskManager.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAswCgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T12:10:28.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthManager.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Managers\\AuthManager.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Managers\\AuthManager.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Managers\\AuthManager.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Managers\\AuthManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T11:04:56.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T07:53:45.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUserManager.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Interfaces\\IUserManager.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Interfaces\\IUserManager.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Interfaces\\IUserManager.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Interfaces\\IUserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T08:01:35.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T07:56:27.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Interfaces\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Interfaces\\ITaskRepository.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Interfaces\\ITaskRepository.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Interfaces\\ITaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T07:52:25.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ITaskManager.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Interfaces\\ITaskManager.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Interfaces\\ITaskManager.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Interfaces\\ITaskManager.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Interfaces\\ITaskManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T08:02:17.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T07:50:08.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IRefreshTokenRepository.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Interfaces\\IRefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Interfaces\\IRefreshTokenRepository.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Interfaces\\IRefreshTokenRepository.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Interfaces\\IRefreshTokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T07:55:10.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Interfaces\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Interfaces\\IPasswordHasher.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Interfaces\\IPasswordHasher.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Interfaces\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T10:22:10.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IJwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Interfaces\\IJwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Interfaces\\IJwtTokenGenerator.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Interfaces\\IJwtTokenGenerator.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Interfaces\\IJwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T10:22:59.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IAuthManager.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Interfaces\\IAuthManager.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Interfaces\\IAuthManager.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Interfaces\\IAuthManager.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Interfaces\\IAuthManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T07:58:35.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T13:25:34.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ForbiddenException.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Exceptions\\ForbiddenException.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Exceptions\\ForbiddenException.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Exceptions\\ForbiddenException.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Exceptions\\ForbiddenException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T13:27:01.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Enums\\UserRoles.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Enums\\UserRoles.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Enums\\UserRoles.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Enums\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T12:20:04.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TaskStatus.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Enums\\TaskStatus.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Enums\\TaskStatus.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Enums\\TaskStatus.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Enums\\TaskStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T12:13:53.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TaskPriority.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Enums\\TaskPriority.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Enums\\TaskPriority.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Enums\\TaskPriority.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Enums\\TaskPriority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T12:19:37.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T13:59:16.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Entities\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Entities\\TaskItem.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Entities\\TaskItem.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Entities\\TaskItem.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAywBYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T14:04:25.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Entities\\RefreshToken.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Entities\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T14:00:27.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Entities\\Comment.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Entities\\Comment.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T14:05:52.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Users\\UserResponse.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\DTOs\\Users\\UserResponse.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Users\\UserResponse.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\DTOs\\Users\\UserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T06:25:37.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UpdateUserRoleRequest.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Users\\UpdateUserRoleRequest.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\DTOs\\Users\\UpdateUserRoleRequest.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Users\\UpdateUserRoleRequest.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\DTOs\\Users\\UpdateUserRoleRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T06:27:51.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UpdateTaskRequest.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Tasks\\UpdateTaskRequest.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\DTOs\\Tasks\\UpdateTaskRequest.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Tasks\\UpdateTaskRequest.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\DTOs\\Tasks\\UpdateTaskRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T05:52:04.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "TaskWithCommentsResponse.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Tasks\\TaskWithCommentsResponse.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\DTOs\\Tasks\\TaskWithCommentsResponse.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Tasks\\TaskWithCommentsResponse.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\DTOs\\Tasks\\TaskWithCommentsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T05:54:17.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TaskItemResponse.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Tasks\\TaskItemResponse.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\DTOs\\Tasks\\TaskItemResponse.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Tasks\\TaskItemResponse.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\DTOs\\Tasks\\TaskItemResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T05:53:12.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TaskFilterRequest.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Tasks\\TaskFilterRequest.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\DTOs\\Tasks\\TaskFilterRequest.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Tasks\\TaskFilterRequest.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\DTOs\\Tasks\\TaskFilterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:00:57.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CreateTaskRequest.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Tasks\\CreateTaskRequest.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\DTOs\\Tasks\\CreateTaskRequest.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Tasks\\CreateTaskRequest.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\DTOs\\Tasks\\CreateTaskRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T05:51:02.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PagedResponse.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Common\\PagedResponse.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\DTOs\\Common\\PagedResponse.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Common\\PagedResponse.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\DTOs\\Common\\PagedResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T19:39:33.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ChangeRoleRequest.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Common\\ChangeRoleRequest.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\DTOs\\Common\\ChangeRoleRequest.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Common\\ChangeRoleRequest.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\DTOs\\Common\\ChangeRoleRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T18:21:41.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CreateCommentRequest.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Comments\\CreateCommentRequest.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\DTOs\\Comments\\CreateCommentRequest.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Comments\\CreateCommentRequest.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\DTOs\\Comments\\CreateCommentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T06:00:30.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CommentResponse.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Comments\\CommentResponse.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\DTOs\\Comments\\CommentResponse.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Comments\\CommentResponse.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\DTOs\\Comments\\CommentResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T06:02:04.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "TokenRefreshRequest.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Auth\\TokenRefreshRequest.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\DTOs\\Auth\\TokenRefreshRequest.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Auth\\TokenRefreshRequest.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\DTOs\\Auth\\TokenRefreshRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T19:45:38.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RevokeTokenRequest.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Auth\\RevokeTokenRequest.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\DTOs\\Auth\\RevokeTokenRequest.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Auth\\RevokeTokenRequest.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\DTOs\\Auth\\RevokeTokenRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T13:12:27.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Auth\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\DTOs\\Auth\\RegisterRequest.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Auth\\RegisterRequest.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\DTOs\\Auth\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T19:41:45.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\DTOs\\Auth\\LoginRequest.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Auth\\LoginRequest.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\DTOs\\Auth\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T19:43:20.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Auth\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\DTOs\\Auth\\AuthResponse.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\DTOs\\Auth\\AuthResponse.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\DTOs\\Auth\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T19:44:06.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.API\\Program.cs",
+              "RelativeDocumentMoniker": "TaskTracker.API\\Program.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.API\\Program.cs",
+              "RelativeToolTip": "TaskTracker.API\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T09:20:45.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "TaskTracker.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "TaskTracker.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwF0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T09:58:02.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TaskTracker.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TaskTracker.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T19:51:51.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.API\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskTracker.API\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.API\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskTracker.API\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswFEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T20:36:45.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskTracker.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskTracker.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T12:46:14.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.API\\Dockerfile",
+              "RelativeDocumentMoniker": "TaskTracker.API\\Dockerfile",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.API\\Dockerfile",
+              "RelativeToolTip": "TaskTracker.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-29T06:21:50.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskTracker.API\\appsettings.json",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.API\\appsettings.json",
+              "RelativeToolTip": "TaskTracker.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-25T12:18:40.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-06-29T06:45:02.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "TaskTracker.API.csproj",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.API\\TaskTracker.API.csproj",
+              "RelativeDocumentMoniker": "TaskTracker.API\\TaskTracker.API.csproj",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.API\\TaskTracker.API.csproj",
+              "RelativeToolTip": "TaskTracker.API\\TaskTracker.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-25T09:57:25.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "TaskTracker.Tests.csproj",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Tests\\TaskTracker.Tests.csproj",
+              "RelativeDocumentMoniker": "TaskTracker.Tests\\TaskTracker.Tests.csproj",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Tests\\TaskTracker.Tests.csproj",
+              "RelativeToolTip": "TaskTracker.Tests\\TaskTracker.Tests.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-19T10:22:17.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "TaskTracker.Domain.csproj",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\TaskTracker.Domain.csproj",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\TaskTracker.Domain.csproj",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\TaskTracker.Domain.csproj",
+              "RelativeToolTip": "TaskTracker.Domain\\TaskTracker.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-19T12:13:14.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "UpdateUserRoleRequestValidator.cs",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Validators\\Users\\UpdateUserRoleRequestValidator.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Validators\\Users\\UpdateUserRoleRequestValidator.cs",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Domain\\Validators\\Users\\UpdateUserRoleRequestValidator.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Validators\\Users\\UpdateUserRoleRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T07:16:57.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "TaskTracker.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj",
+              "RelativeToolTip": "TaskTracker.Infrastructure\\TaskTracker.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-25T06:14:58.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "LEARNING_GUIDE.md",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\LEARNING_GUIDE.md",
+              "RelativeDocumentMoniker": "LEARNING_GUIDE.md",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\LEARNING_GUIDE.md",
+              "RelativeToolTip": "LEARNING_GUIDE.md",
+              "ViewState": "AgIAACQAAAAAAAAAAIBJwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-19T12:44:37.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "TODO.md",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\TODO.md",
+              "RelativeDocumentMoniker": "TODO.md",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\TODO.md",
+              "RelativeToolTip": "TODO.md",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwHYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-19T10:31:32.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "DECISIONS.md",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\DECISIONS.md",
+              "RelativeDocumentMoniker": "DECISIONS.md",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\DECISIONS.md",
+              "RelativeToolTip": "DECISIONS.md",
+              "ViewState": "AgIAAJIAAAAAAAAAAIBJwKYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-19T10:31:07.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "AI_CONTEXT.md",
+              "DocumentMoniker": "C:\\BS_23_dotnet_project2\\TaskTracker\\AI_CONTEXT.md",
+              "RelativeDocumentMoniker": "AI_CONTEXT.md",
+              "ToolTip": "C:\\BS_23_dotnet_project2\\TaskTracker\\AI_CONTEXT.md",
+              "RelativeToolTip": "AI_CONTEXT.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABABAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-19T10:30:40.418Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="DTOs\Comments\" />
+    <Folder Include="DTOs\Users\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Ardalis.Specification" Version="9.3.1" />
+    <PackageReference Include="AutoMapper" Version="16.1.1" />
+    <PackageReference Include="FluentValidation" Version="12.1.1" />
+  </ItemGroup>
+
+</Project>

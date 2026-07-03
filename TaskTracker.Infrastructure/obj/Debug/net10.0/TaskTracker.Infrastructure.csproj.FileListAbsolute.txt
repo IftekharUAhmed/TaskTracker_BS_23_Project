@@ -1,0 +1,15 @@
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Infrastructure\bin\Debug\net10.0\TaskTracker.Infrastructure.deps.json
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Infrastructure\bin\Debug\net10.0\TaskTracker.Infrastructure.dll
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Infrastructure\bin\Debug\net10.0\TaskTracker.Infrastructure.pdb
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Infrastructure\bin\Debug\net10.0\TaskTracker.Domain.dll
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Infrastructure\bin\Debug\net10.0\TaskTracker.Domain.pdb
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net10.0\TaskTracker.Infrastructure.csproj.AssemblyReference.cache
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net10.0\TaskTracker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net10.0\TaskTracker.Infrastructure.AssemblyInfoInputs.cache
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net10.0\TaskTracker.Infrastructure.AssemblyInfo.cs
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net10.0\TaskTracker.Infrastructure.csproj.CoreCompileInputs.cache
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net10.0\TaskTrac.CA91C8E6.Up2Date
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net10.0\TaskTracker.Infrastructure.dll
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net10.0\refint\TaskTracker.Infrastructure.dll
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net10.0\TaskTracker.Infrastructure.pdb
+C:\BS_23_dotnet_project2\TaskTracker\TaskTracker.Infrastructure\obj\Debug\net10.0\ref\TaskTracker.Infrastructure.dll

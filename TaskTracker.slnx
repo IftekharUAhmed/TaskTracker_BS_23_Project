@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="AI_CONTEXT.md" />
+    <File Path="DECISIONS.md" />
+    <File Path="docker-compose.yml" />
+    <File Path="LEARNING_GUIDE.md" />
+    <File Path="TODO.md" />
+  </Folder>
+  <Project Path="TaskTracker.API/TaskTracker.API.csproj" />
+  <Project Path="TaskTracker.Domain/TaskTracker.Domain.csproj" />
+  <Project Path="TaskTracker.Infrastructure/TaskTracker.Infrastructure.csproj" />
+  <Project Path="TaskTracker.Tests/TaskTracker.Tests.csproj" />
+</Solution>

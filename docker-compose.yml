@@ -1,0 +1,37 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:16
+    container_name: tasktracker_db
+    environment:
+      - POSTGRES_DB=tasktracker
+      - POSTGRES_USER=tasktracker
+      - POSTGRES_PASSWORD=tasktracker_dev
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U tasktracker -d tasktracker"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  api:
+    build:
+      context: .
+      dockerfile: TaskTracker.API/Dockerfile
+    container_name: tasktracker_api
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development`
+      - ConnectionStrings__DefaultConnection=Host=db;Port=5432;Database=tasktracker;Username=tasktracker;Password=tasktracker_dev
+    ports:
+      - "8080:8080"
+      - "8081:8081"
+    depends_on:
+      db:
+        condition: service_healthy
+
+volumes:
+  postgres_data:
